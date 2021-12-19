@@ -8,101 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 171338051,
+        "HashCode": 1113929273,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.App",
+        "Name": "UASFrontEnd.Pages.StudentPages",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "StudentPages"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.App"
+          "Common.TypeName": "UASFrontEnd.Pages.StudentPages"
         }
       },
       {
-        "HashCode": 1732275356,
+        "HashCode": 83075731,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.App",
+        "Name": "UASFrontEnd.Pages.StudentPages",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "UASFrontEnd.App"
+            "TagName": "UASFrontEnd.Pages.StudentPages"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 684533269,
-        "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.Counter",
-        "AssemblyName": "UASFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1607525798,
-        "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.Counter",
-        "AssemblyName": "UASFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UASFrontEnd.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1858358148,
-        "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.FetchData",
-        "AssemblyName": "UASFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 2109577981,
-        "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.FetchData",
-        "AssemblyName": "UASFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UASFrontEnd.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.FetchData",
+          "Common.TypeName": "UASFrontEnd.Pages.StudentPages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -140,88 +74,293 @@
         }
       },
       {
-        "HashCode": 1843560853,
+        "HashCode": 1858358148,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.StudentPage",
+        "Name": "UASFrontEnd.Pages.FetchData",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "StudentPage"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.StudentPage"
+          "Common.TypeName": "UASFrontEnd.Pages.FetchData"
         }
       },
       {
-        "HashCode": 289008390,
+        "HashCode": 2109577981,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Pages.StudentPage",
+        "Name": "UASFrontEnd.Pages.FetchData",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "UASFrontEnd.Pages.StudentPage"
+            "TagName": "UASFrontEnd.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Pages.StudentPage",
+          "Common.TypeName": "UASFrontEnd.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 2006961487,
+        "HashCode": 745957430,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Shared.SurveyPrompt",
+        "Name": "UASFrontEnd.Pages.AddStudent",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "AddStudent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Shared.SurveyPrompt"
+          "Common.TypeName": "UASFrontEnd.Pages.AddStudent"
         }
       },
       {
-        "HashCode": -1490503870,
+        "HashCode": 102859175,
         "Kind": "Components.Component",
-        "Name": "UASFrontEnd.Shared.SurveyPrompt",
+        "Name": "UASFrontEnd.Pages.AddStudent",
         "AssemblyName": "UASFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "UASFrontEnd.Shared.SurveyPrompt"
+            "TagName": "UASFrontEnd.Pages.AddStudent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.AddStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 503090013,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
+            "Name": "Id",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "Id"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UASFrontEnd.Shared.SurveyPrompt",
+          "Common.TypeName": "UASFrontEnd.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 543256606,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 684533269,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.Counter",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1607525798,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.Counter",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 728371831,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.DetailStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.DetailStudent"
+        }
+      },
+      {
+        "HashCode": 761998600,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.DetailStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Pages.DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.DetailStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -446108527,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.EnrollmentPages",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EnrollmentPages"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.EnrollmentPages"
+        }
+      },
+      {
+        "HashCode": -2062489760,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.EnrollmentPages",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Pages.EnrollmentPages"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.EnrollmentPages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1500360181,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.UpdateStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UpdateStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.UpdateStudent"
+        }
+      },
+      {
+        "HashCode": -1358857033,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Pages.UpdateStudent",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Pages.UpdateStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Pages.UpdateStudent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,6 +461,59 @@
         }
       },
       {
+        "HashCode": 2006961487,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Shared.SurveyPrompt",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1490503870,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.Shared.SurveyPrompt",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -936853489,
         "Kind": "Components.Component",
         "Name": "UASFrontEnd.Shared.NavMenu",
@@ -351,6 +543,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UASFrontEnd.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 171338051,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.App",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.App"
+        }
+      },
+      {
+        "HashCode": 1732275356,
+        "Kind": "Components.Component",
+        "Name": "UASFrontEnd.App",
+        "AssemblyName": "UASFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UASFrontEnd.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UASFrontEnd.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13047,8 +13272,23 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\UpdateStudent.razor",
+      "TargetPath": "Pages\\UpdateStudent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\DeleteStudent.razor",
+      "TargetPath": "Pages\\DeleteStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\EnrollmentPages.razor",
+      "TargetPath": "Pages\\EnrollmentPages.razor",
       "FileKind": "component"
     },
     {
@@ -13057,18 +13297,28 @@
       "FileKind": "componentImport"
     },
     {
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\StudentPages.razor",
+      "TargetPath": "Pages\\StudentPages.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\ProgramKu\\UASFrontEnd\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\AddStudent.razor",
+      "TargetPath": "Pages\\AddStudent.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\StudentPage.razor",
-      "TargetPath": "Pages\\StudentPage.razor",
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Pages\\DetailStudent.razor",
+      "TargetPath": "Pages\\DetailStudent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\ProgramKu\\UASFrontEnd\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {

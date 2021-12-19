@@ -83,7 +83,7 @@ using UASFrontEnd.Shared;
 #line hidden
 #nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/studentpage")]
-    public partial class StudentPage : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class StudentPages : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)

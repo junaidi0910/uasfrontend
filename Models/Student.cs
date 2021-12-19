@@ -8,15 +8,15 @@ namespace UASFrontEnd.Models
 {
     public class Student
     {
-        public int Nim { get; set; }
+       public string studentID { get; set; }
 
-        [Required]
-        public string NamaDepan { get; set; }
+        [Required(ErrorMessage = "First Name is required")]
+        [StringLength(100,MinimumLength =2)]
+        public string firstName { get; set; }
 
-        [Required]
-        public string NamaBelakang { get; set; }
-
-        public TimestampAttribute TanggalMasuk { get; set; }
+         [Required]
+        public string lastName { get; set; }
+        public DateTime enrollmentDate { get; set; }
        
     }
 

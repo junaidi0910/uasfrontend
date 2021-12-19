@@ -629,5 +629,15 @@ C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\UASFrontEnd.RazorTargetAssemblyInfo.ca
 C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\UASFrontEnd.dll
 C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\ref\UASFrontEnd.dll
 C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\UASFrontEnd.pdb
-C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
-C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPages.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\StudentPages.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\DetailStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\EnrollmentPages.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\UpdateStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\DetailStudent.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\EnrollmentPages.razor.g.cs
+C:\ProgramKu\UASFrontEnd\obj\Debug\net5.0\Razor\Pages\UpdateStudent.razor.g.cs
